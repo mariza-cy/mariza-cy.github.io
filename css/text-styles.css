@@ -1,0 +1,19 @@
+body{
+	font-family: "Garamond", "Times New Roman", monospace;
+}
+
+h1{
+	margin-top: 5px;
+	text-shadow: 2px 2px #c0c0c0;
+	font-weight: bolder;
+}
+
+h2{
+	margin-top: 5px;
+	font-weight: bold;
+}
+
+p{
+	margin-top: 5px
+	font-family: "Arial", sans-serif;
+}

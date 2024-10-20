@@ -1,0 +1,39 @@
+.blue{
+	color: #20e0d0;
+}
+
+.dark_blue{
+	color: #00c0b0;
+}
+
+.black{
+	color: #000000;
+}
+
+.gray{
+	color: #e0e0e0;
+}
+
+.white{
+	color: #ffffff;
+}
+
+.blue_bg{
+	background-color: #20e0d0;
+}
+
+.dark_blue_bg{
+	background-color: #00c0b0;
+}
+
+.black_bg{
+	background-color: #000000;
+}
+
+.gray_bg{
+	background-color: #e0e0e0;
+}
+
+.white_bg{
+	background-color: #ffffff;
+}
