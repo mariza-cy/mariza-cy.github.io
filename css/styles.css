@@ -19,6 +19,11 @@ div{
 	width: auto;
 }
 
+.fit_img{
+	width: 100%;
+	height: auto;
+}
+
 .shadow{
 	box-shadow: 2px 2px #c0c0c0;
 }
